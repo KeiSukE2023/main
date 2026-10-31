@@ -1,0 +1,22 @@
+==================================================
+           EMPENGINE PAYROLL MASTER REPORT        
+==================================================
+
+Employee ID: EMP-003
+Employee Name: dasdsad
+Basic Salary: P23222.00
+Job Deduction: -P696.66
+Letter Status: Submitted (Waived)
+Letter Deduction: -P0.00
+Overtime Pay: +P0.00
+Net Pay: P22525.34
+
+Employee ID: EMP-003
+Employee Name: dsa
+Basic Salary: P2322.00
+Job Deduction: -P69.66
+Letter Status: Missing (-5% Penalty)
+Letter Deduction: -P116.10
+Overtime Pay: +P527.73
+Net Pay: P2663.97
+
